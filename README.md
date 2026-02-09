@@ -5,5 +5,6 @@ I have made a website about [Iceland](https://wangl-xuan.github.io/Lucky-Wang-ye
 - name tag
 - a penguin
 - a little fox
-<p>I chose to study digital technology because I am interested in computer and math. I want to make an engine model and a website about it in the future.</p>
+I chose to study digital technology because I am interested in computer and math. I want to make an engine model and a website about it in the future.
+
 ![Cat](picture.png)
